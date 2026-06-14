@@ -1,6 +1,6 @@
 # soc-investigations# 🔍 SOC Analyst — Hands-On Investigations
 
-> Real-world security investigations and blue team exercises by **Musfira Zafar**  
+> Real-world security investigations and blue team exercises
 > Documenting my journey from networking fundamentals to SOC Analyst
 
 ---
