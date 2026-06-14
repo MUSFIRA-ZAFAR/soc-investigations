@@ -2,7 +2,7 @@
 
 | Field | Details |
 |---|---|
-| **Date Analysed** | [Today's date] |
+| **Date Analysed** | [June 14, 2026] |
 | **PCAP Date** | January 28, 2019 |
 | **Analyst** | Musfira Zafar |
 | **Source** | malware-traffic-analysis.net |
