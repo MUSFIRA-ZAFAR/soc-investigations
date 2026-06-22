@@ -1,0 +1,12 @@
+## Remediation Verification — fail2ban
+
+Installed and configured fail2ban with the following rules:
+- maxretry: 5
+- findtime: 60 seconds  
+- bantime: 600 seconds
+
+Result: Attacker IP 192.168.56.101 automatically banned 
+after 12 attempts. Attack stopped without manual intervention.
+
+Before fail2ban: 143 attempts went unblocked
+After fail2ban: Blocked after 5 attempts automatically
